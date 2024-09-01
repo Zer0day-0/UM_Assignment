@@ -1,0 +1,166 @@
+refsnp_id,chr_name,chrom_start,chrom_end,allele,mapweight,validated,allele_1,minor_allele,minor_allele_freq,minor_allele_count,clinical_significance,synonym_name,ensembl_gene_stable_id
+rs11136000,8,27607002,27607002,T/A/C,1,"1000Genomes,Cited,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",T,NA,NA,NA,,NM_001319034.1:c.5368_5369del,ENSG00000120885
+rs11136000,8,27607002,27607002,T/A/C,1,"1000Genomes,Cited,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",T,NA,NA,NA,,NM_004415.4:c.6697_6698del,ENSG00000120885
+rs11136000,8,27607002,27607002,T/A/C,1,"1000Genomes,Cited,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",T,NA,NA,NA,,NM_001008844.3:c.4900_4901del,ENSG00000120885
+rs11136000,8,27607002,27607002,T/A/C,1,"1000Genomes,Cited,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",T,NA,NA,NA,,NM_001319034.2:c.5368_5369del,ENSG00000120885
+rs11136000,8,27607002,27607002,T/A/C,1,"1000Genomes,Cited,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",T,NA,NA,NA,,NM_004415.3:c.6697_6698del,ENSG00000120885
+rs11136000,8,27607002,27607002,T/A/C,1,"1000Genomes,Cited,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",T,NA,NA,NA,,NM_001008844.2:c.4900_4901del,ENSG00000120885
+rs11136000,8,27607002,27607002,T/A/C,1,"1000Genomes,Cited,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",T,NA,NA,NA,,NM_001008844.1:c.4900_4901del,ENSG00000120885
+rs11136000,8,27607002,27607002,T/A/C,1,"1000Genomes,Cited,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",T,NA,NA,NA,,NP_001305963.1:p.Val1790fs,ENSG00000120885
+rs11136000,8,27607002,27607002,T/A/C,1,"1000Genomes,Cited,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",T,NA,NA,NA,,NP_001008844.1:p.Val1634fs,ENSG00000120885
+rs11136000,8,27607002,27607002,T/A/C,1,"1000Genomes,Cited,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",T,NA,NA,NA,,NP_004406.2:p.Val2233fs,ENSG00000120885
+rs11136000,8,27607002,27607002,T/A/C,1,"1000Genomes,Cited,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",T,NA,NA,NA,,NM_004415.2:c.6697_6698del,ENSG00000120885
+rs11136000,8,27607002,27607002,T/A/C,1,"1000Genomes,Cited,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",T,NA,NA,NA,,rs61502308,ENSG00000120885
+rs139237860,14,28768377,28768377,G/T,1,"ESP,ExAC,Frequency,gnomAD,TOPMed",G,NA,NA,NA,,,ENSG00000176165
+rs141088742,14,28767873,28767873,C/A/G/T,1,"ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,"uncertain significance,benign,likely benign",VCV001144865,ENSG00000176165
+rs141088742,14,28767873,28767873,C/A/G/T,1,"ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,"uncertain significance,benign,likely benign",RCV001483519,ENSG00000176165
+rs141088742,14,28767873,28767873,C/A/G/T,1,"ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,"uncertain significance,benign,likely benign",VCV000205475,ENSG00000176165
+rs141088742,14,28767873,28767873,C/A/G/T,1,"ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,"uncertain significance,benign,likely benign",RCV000187445,ENSG00000176165
+rs141088742,14,28767873,28767873,C/A/G/T,1,"ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,"uncertain significance,benign,likely benign",RCV000726565,ENSG00000176165
+rs141088742,14,28767873,28767873,C/A/G/T,1,"ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,"uncertain significance,benign,likely benign",RCV001078476,ENSG00000176165
+rs141088742,14,28767873,28767873,C/A/G/T,1,"ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,"uncertain significance,benign,likely benign",RCV002354523,ENSG00000176165
+rs143223844,14,28768437,28768437,C/G/T,1,"1000Genomes,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,"benign,likely benign",VCV000391331,ENSG00000176165
+rs143223844,14,28768437,28768437,C/G/T,1,"1000Genomes,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,"benign,likely benign",RCV001698390,ENSG00000176165
+rs143223844,14,28768437,28768437,C/G/T,1,"1000Genomes,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,"benign,likely benign",RCV002060047,ENSG00000176165
+rs147154860,14,28768440,28768440,G/A/T,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,"benign,likely benign",VCV001159714,ENSG00000176165
+rs147154860,14,28768440,28768440,G/A/T,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,"benign,likely benign",RCV001503526,ENSG00000176165
+rs147154860,14,28768440,28768440,G/A/T,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,"benign,likely benign",VCV000137391,ENSG00000176165
+rs147154860,14,28768440,28768440,G/A/T,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,"benign,likely benign",RCV000125144,ENSG00000176165
+rs147154860,14,28768440,28768440,G/A/T,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,"benign,likely benign",RCV000537370,ENSG00000176165
+rs147154860,14,28768440,28768440,G/A/T,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,"benign,likely benign",RCV002316367,ENSG00000176165
+rs148157138,14,28767782,28767782,G/C/T,1,"1000Genomes,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,"uncertain significance,benign,likely benign",VCV000205483,ENSG00000176165
+rs148157138,14,28767782,28767782,G/C/T,1,"1000Genomes,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,"uncertain significance,benign,likely benign",RCV000187454,ENSG00000176165
+rs148157138,14,28767782,28767782,G/C/T,1,"1000Genomes,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,"uncertain significance,benign,likely benign",RCV002345671,ENSG00000176165
+rs148157138,14,28767782,28767782,G/C/T,1,"1000Genomes,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,"uncertain significance,benign,likely benign",VCV000205474,ENSG00000176165
+rs148157138,14,28767782,28767782,G/C/T,1,"1000Genomes,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,"uncertain significance,benign,likely benign",RCV000187444,ENSG00000176165
+rs148157138,14,28767782,28767782,G/C/T,1,"1000Genomes,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,"uncertain significance,benign,likely benign",RCV000540363,ENSG00000176165
+rs148157138,14,28767782,28767782,G/C/T,1,"1000Genomes,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,"uncertain significance,benign,likely benign",RCV001507039,ENSG00000176165
+rs148157138,14,28767782,28767782,G/C/T,1,"1000Genomes,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,"uncertain significance,benign,likely benign",RCV001704986,ENSG00000176165
+rs148157138,14,28767782,28767782,G/C/T,1,"1000Genomes,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,"uncertain significance,benign,likely benign",RCV002317097,ENSG00000176165
+rs150277632,14,28768268,28768268,C/A/G,1,"ESP,Frequency,gnomAD,TOPMed",C,NA,NA,NA,,,ENSG00000176165
+rs157580,19,44892009,44892009,G/A/C/T,1,"1000Genomes,Cited,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",A,NA,NA,NA,,rs386549394,ENSG00000130204
+rs157580,19,44892009,44892009,G/A/C/T,1,"1000Genomes,Cited,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",A,NA,NA,NA,,rs433319,ENSG00000130204
+rs157580,19,44892009,44892009,G/A/C/T,1,"1000Genomes,Cited,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",A,NA,NA,NA,,rs664697,ENSG00000130204
+rs157580,19,44892009,44892009,G/A/C/T,1,"1000Genomes,Cited,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",A,NA,NA,NA,,rs57654801,ENSG00000130204
+rs2075650,19,44892362,44892362,A/G,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,,rs60321974,ENSG00000130204
+rs2075650,19,44892362,44892362,A/G,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,,PA166155380,ENSG00000130204
+rs28935168,X,154032286,154032286,G/C,1,"Cited,Phenotype_or_Disease",G,NA,NA,NA,pathogenic,NM_207477.1:c.*148G>A,ENSG00000169057
+rs28935168,X,154032286,154032286,G/C,1,"Cited,Phenotype_or_Disease",G,NA,NA,NA,pathogenic,VCV000011835,ENSG00000169057
+rs28935168,X,154032286,154032286,G/C,1,"Cited,Phenotype_or_Disease",G,NA,NA,NA,pathogenic,RCV000012608,ENSG00000169057
+rs28935168,X,154032286,154032286,G/C,1,"Cited,Phenotype_or_Disease",G,NA,NA,NA,pathogenic,RCV000498874,ENSG00000169057
+rs28935168,X,154032286,154032286,G/C,1,"Cited,Phenotype_or_Disease",G,NA,NA,NA,pathogenic,VAR_017462,ENSG00000169057
+rs28935168,X,154032286,154032286,G/C,1,"Cited,Phenotype_or_Disease",G,NA,NA,NA,pathogenic,RettBASE_c.298C>G,ENSG00000169057
+rs28935168,X,154032286,154032286,G/C,1,"Cited,Phenotype_or_Disease",G,NA,NA,NA,pathogenic,300005.0027,ENSG00000169057
+rs368707795,14,28768284,28768284,C/G/T,1,"ESP,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,likely benign,VCV001157052,ENSG00000176165
+rs368707795,14,28768284,28768284,C/G/T,1,"ESP,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,likely benign,RCV001499941,ENSG00000176165
+rs369673538,14,28768444,28768444,C/T,1,"ESP,Frequency,gnomAD,TOPMed",C,NA,NA,NA,,,ENSG00000176165
+rs372915038,14,28767336,28767336,C/T,1,"ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease",,NA,NA,NA,likely benign,VCV000511954,ENSG00000176165
+rs372915038,14,28767336,28767336,C/T,1,"ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease",,NA,NA,NA,likely benign,RCV000607799,ENSG00000176165
+rs372915038,14,28767336,28767336,C/T,1,"ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease",,NA,NA,NA,likely benign,RCV002064051,ENSG00000176165
+rs374673901,14,28768089,28768089,G/A,1,"ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease",G,NA,NA,NA,likely benign,VCV001762037,ENSG00000176165
+rs374673901,14,28768089,28768089,G/A,1,"ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease",G,NA,NA,NA,likely benign,RCV002419522,ENSG00000176165
+rs375378714,14,28767768,28767768,C/T,1,"Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,"benign,likely benign",VCV000137390,ENSG00000176165
+rs375378714,14,28767768,28767768,C/T,1,"Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,"benign,likely benign",RCV000186629,ENSG00000176165
+rs375378714,14,28767768,28767768,C/T,1,"Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,"benign,likely benign",RCV000536910,ENSG00000176165
+rs375378714,14,28767768,28767768,C/T,1,"Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,"benign,likely benign",RCV001093031,ENSG00000176165
+rs375378714,14,28767768,28767768,C/T,1,"Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,"benign,likely benign",RCV001507044,ENSG00000176165
+rs375378714,14,28767768,28767768,C/T,1,"Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,"benign,likely benign",RCV002312876,ENSG00000176165
+rs4147929,19,1063444,1063444,A/C/G/T,1,"1000Genomes,Cited,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,,rs60573631,ENSG00000064687
+rs5030849,12,102852875,102852875,C/A/G/T,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,"uncertain significance,pathogenic",VCV000585208,ENSG00000171759
+rs5030849,12,102852875,102852875,C/A/G/T,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,"uncertain significance,pathogenic",RCV000709704,ENSG00000171759
+rs5030849,12,102852875,102852875,C/A/G/T,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,"uncertain significance,pathogenic",VCV000102832,ENSG00000171759
+rs5030849,12,102852875,102852875,C/A/G/T,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,"uncertain significance,pathogenic",RCV000089091,ENSG00000171759
+rs5030849,12,102852875,102852875,C/A/G/T,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,"uncertain significance,pathogenic",RCV000410877,ENSG00000171759
+rs5030849,12,102852875,102852875,C/A/G/T,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,"uncertain significance,pathogenic",VCV000000582,ENSG00000171759
+rs5030849,12,102852875,102852875,C/A/G/T,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,"uncertain significance,pathogenic",RCV000000612,ENSG00000171759
+rs5030849,12,102852875,102852875,C/A/G/T,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,"uncertain significance,pathogenic",RCV000078530,ENSG00000171759
+rs5030849,12,102852875,102852875,C/A/G/T,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,"uncertain significance,pathogenic",PA166189124,ENSG00000171759
+rs5030849,12,102852875,102852875,C/A/G/T,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,"uncertain significance,pathogenic",VAR_000964,ENSG00000171759
+rs5030849,12,102852875,102852875,C/A/G/T,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,"uncertain significance,pathogenic",p.R261Q,ENSG00000171759
+rs5030849,12,102852875,102852875,C/A/G/T,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,"uncertain significance,pathogenic",p.R261P,ENSG00000171759
+rs5030849,12,102852875,102852875,C/A/G/T,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",C,NA,NA,NA,"uncertain significance,pathogenic",612349.0006,ENSG00000171759
+rs5030856,12,102843676,102843676,T/C,1,"Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",T,NA,NA,NA,pathogenic,rs386626624,ENSG00000171759
+rs5030856,12,102843676,102843676,T/C,1,"Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",T,NA,NA,NA,pathogenic,VCV000000625,ENSG00000171759
+rs5030856,12,102843676,102843676,T/C,1,"Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",T,NA,NA,NA,pathogenic,RCV000000656,ENSG00000171759
+rs5030856,12,102843676,102843676,T/C,1,"Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",T,NA,NA,NA,pathogenic,RCV000000657,ENSG00000171759
+rs5030856,12,102843676,102843676,T/C,1,"Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",T,NA,NA,NA,pathogenic,RCV000078503,ENSG00000171759
+rs5030856,12,102843676,102843676,T/C,1,"Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",T,NA,NA,NA,pathogenic,VAR_001027,ENSG00000171759
+rs5030856,12,102843676,102843676,T/C,1,"Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",T,NA,NA,NA,pathogenic,p.E390G,ENSG00000171759
+rs5030856,12,102843676,102843676,T/C,1,"Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",T,NA,NA,NA,pathogenic,PAH_c.1169A>G,ENSG00000171759
+rs5030856,12,102843676,102843676,T/C,1,"Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",T,NA,NA,NA,pathogenic,612349.0051,ENSG00000171759
+rs5030858,12,102840493,102840493,G/A,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,pathogenic,rs28934898,ENSG00000171759
+rs5030858,12,102840493,102840493,G/A,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,pathogenic,rs62644491,ENSG00000171759
+rs5030858,12,102840493,102840493,G/A,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,pathogenic,VCV000000577,ENSG00000171759
+rs5030858,12,102840493,102840493,G/A,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,pathogenic,RCV000000607,ENSG00000171759
+rs5030858,12,102840493,102840493,G/A,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,pathogenic,RCV000078507,ENSG00000171759
+rs5030858,12,102840493,102840493,G/A,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,pathogenic,RCV002287314,ENSG00000171759
+rs5030858,12,102840493,102840493,G/A,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,pathogenic,RCV002512607,ENSG00000171759
+rs5030858,12,102840493,102840493,G/A,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,pathogenic,PA166189125,ENSG00000171759
+rs5030858,12,102840493,102840493,G/A,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,pathogenic,VAR_001035,ENSG00000171759
+rs5030858,12,102840493,102840493,G/A,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,pathogenic,PAH_c.1222C>T,ENSG00000171759
+rs5030858,12,102840493,102840493,G/A,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,pathogenic,p.R408W,ENSG00000171759
+rs5030858,12,102840493,102840493,G/A,1,"1000Genomes,Cited,ESP,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,pathogenic,612349.0002,ENSG00000171759
+rs61748411,X,154031356,154031356,T/C,1,"Cited,Phenotype_or_Disease",T,NA,NA,NA,pathogenic,VCV000143590,ENSG00000169057
+rs61748411,X,154031356,154031356,T/C,1,"Cited,Phenotype_or_Disease",T,NA,NA,NA,pathogenic,RCV000133128,ENSG00000169057
+rs61748411,X,154031356,154031356,T/C,1,"Cited,Phenotype_or_Disease",T,NA,NA,NA,pathogenic,RCV000482544,ENSG00000169057
+rs61748411,X,154031356,154031356,T/C,1,"Cited,Phenotype_or_Disease",T,NA,NA,NA,pathogenic,VAR_023557,ENSG00000169057
+rs61748411,X,154031356,154031356,T/C,1,"Cited,Phenotype_or_Disease",T,NA,NA,NA,pathogenic,RettBASE_c.472A>G,ENSG00000169057
+rs61751443,X,154030911,154030911,C/A/G/T,1,"Cited,Phenotype_or_Disease",C,NA,NA,NA,"not provided,likely pathogenic,pathogenic",VCV000143747,ENSG00000169057
+rs61751443,X,154030911,154030911,C/A/G/T,1,"Cited,Phenotype_or_Disease",C,NA,NA,NA,"not provided,likely pathogenic,pathogenic",RCV000133291,ENSG00000169057
+rs61751443,X,154030911,154030911,C/A/G/T,1,"Cited,Phenotype_or_Disease",C,NA,NA,NA,"not provided,likely pathogenic,pathogenic",RCV001420142,ENSG00000169057
+rs61751443,X,154030911,154030911,C/A/G/T,1,"Cited,Phenotype_or_Disease",C,NA,NA,NA,"not provided,likely pathogenic,pathogenic",VCV000521860,ENSG00000169057
+rs61751443,X,154030911,154030911,C/A/G/T,1,"Cited,Phenotype_or_Disease",C,NA,NA,NA,"not provided,likely pathogenic,pathogenic",RCV000623502,ENSG00000169057
+rs61751443,X,154030911,154030911,C/A/G/T,1,"Cited,Phenotype_or_Disease",C,NA,NA,NA,"not provided,likely pathogenic,pathogenic",RCV002531911,ENSG00000169057
+rs61751443,X,154030911,154030911,C/A/G/T,1,"Cited,Phenotype_or_Disease",C,NA,NA,NA,"not provided,likely pathogenic,pathogenic",VCV000143746,ENSG00000169057
+rs61751443,X,154030911,154030911,C/A/G/T,1,"Cited,Phenotype_or_Disease",C,NA,NA,NA,"not provided,likely pathogenic,pathogenic",RCV000133290,ENSG00000169057
+rs61751443,X,154030911,154030911,C/A/G/T,1,"Cited,Phenotype_or_Disease",C,NA,NA,NA,"not provided,likely pathogenic,pathogenic",RCV000256087,ENSG00000169057
+rs61751443,X,154030911,154030911,C/A/G/T,1,"Cited,Phenotype_or_Disease",C,NA,NA,NA,"not provided,likely pathogenic,pathogenic",RCV001778753,ENSG00000169057
+rs61751443,X,154030911,154030911,C/A/G/T,1,"Cited,Phenotype_or_Disease",C,NA,NA,NA,"not provided,likely pathogenic,pathogenic",RCV001857484,ENSG00000169057
+rs61751443,X,154030911,154030911,C/A/G/T,1,"Cited,Phenotype_or_Disease",C,NA,NA,NA,"not provided,likely pathogenic,pathogenic",VAR_018211,ENSG00000169057
+rs61751449,X,154030864,154030864,G/A/C,1,"Cited,Frequency,Phenotype_or_Disease",G,NA,NA,NA,"uncertain significance,likely pathogenic,pathogenic",VCV000011843,ENSG00000169057
+rs61751449,X,154030864,154030864,G/A/C,1,"Cited,Frequency,Phenotype_or_Disease",G,NA,NA,NA,"uncertain significance,likely pathogenic,pathogenic",RCV000012617,ENSG00000169057
+rs61751449,X,154030864,154030864,G/A/C,1,"Cited,Frequency,Phenotype_or_Disease",G,NA,NA,NA,"uncertain significance,likely pathogenic,pathogenic",VCV000143753,ENSG00000169057
+rs61751449,X,154030864,154030864,G/A/C,1,"Cited,Frequency,Phenotype_or_Disease",G,NA,NA,NA,"uncertain significance,likely pathogenic,pathogenic",RCV000169949,ENSG00000169057
+rs61751449,X,154030864,154030864,G/A/C,1,"Cited,Frequency,Phenotype_or_Disease",G,NA,NA,NA,"uncertain significance,likely pathogenic,pathogenic",RCV000416315,ENSG00000169057
+rs61751449,X,154030864,154030864,G/A/C,1,"Cited,Frequency,Phenotype_or_Disease",G,NA,NA,NA,"uncertain significance,likely pathogenic,pathogenic",RCV001090501,ENSG00000169057
+rs61751449,X,154030864,154030864,G/A/C,1,"Cited,Frequency,Phenotype_or_Disease",G,NA,NA,NA,"uncertain significance,likely pathogenic,pathogenic",RCV002262751,ENSG00000169057
+rs61751449,X,154030864,154030864,G/A/C,1,"Cited,Frequency,Phenotype_or_Disease",G,NA,NA,NA,"uncertain significance,likely pathogenic,pathogenic",VAR_018212,ENSG00000169057
+rs61751449,X,154030864,154030864,G/A/C,1,"Cited,Frequency,Phenotype_or_Disease",G,NA,NA,NA,"uncertain significance,likely pathogenic,pathogenic",300005.0035,ENSG00000169057
+rs62508646,12,102844356,102844356,A/C/G,1,"1000Genomes,Cited,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",A,NA,NA,NA,"not provided,likely pathogenic,pathogenic",rs386626621,ENSG00000171759
+rs62508646,12,102844356,102844356,A/C/G,1,"1000Genomes,Cited,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",A,NA,NA,NA,"not provided,likely pathogenic,pathogenic",VCV000102490,ENSG00000171759
+rs62508646,12,102844356,102844356,A/C/G,1,"1000Genomes,Cited,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",A,NA,NA,NA,"not provided,likely pathogenic,pathogenic",RCV000088721,ENSG00000171759
+rs62508646,12,102844356,102844356,A/C/G,1,"1000Genomes,Cited,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",A,NA,NA,NA,"not provided,likely pathogenic,pathogenic",RCV001386151,ENSG00000171759
+rs62508646,12,102844356,102844356,A/C/G,1,"1000Genomes,Cited,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",A,NA,NA,NA,"not provided,likely pathogenic,pathogenic",VCV000000615,ENSG00000171759
+rs62508646,12,102844356,102844356,A/C/G,1,"1000Genomes,Cited,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",A,NA,NA,NA,"not provided,likely pathogenic,pathogenic",RCV000000646,ENSG00000171759
+rs62508646,12,102844356,102844356,A/C/G,1,"1000Genomes,Cited,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",A,NA,NA,NA,"not provided,likely pathogenic,pathogenic",RCV000078499,ENSG00000171759
+rs62508646,12,102844356,102844356,A/C/G,1,"1000Genomes,Cited,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",A,NA,NA,NA,"not provided,likely pathogenic,pathogenic",VAR_001014,ENSG00000171759
+rs62508646,12,102844356,102844356,A/C/G,1,"1000Genomes,Cited,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",A,NA,NA,NA,"not provided,likely pathogenic,pathogenic",p.S349P,ENSG00000171759
+rs62508646,12,102844356,102844356,A/C/G,1,"1000Genomes,Cited,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",A,NA,NA,NA,"not provided,likely pathogenic,pathogenic",p.S349A,ENSG00000171759
+rs62508646,12,102844356,102844356,A/C/G,1,"1000Genomes,Cited,ExAC,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",A,NA,NA,NA,"not provided,likely pathogenic,pathogenic",612349.0032,ENSG00000171759
+rs63750264,21,25891784,25891784,C/A/G/T,1,"Cited,Frequency,Phenotype_or_Disease",C,NA,NA,NA,pathogenic,VCV000018105,ENSG00000142192
+rs63750264,21,25891784,25891784,C/A/G/T,1,"Cited,Frequency,Phenotype_or_Disease",C,NA,NA,NA,pathogenic,RCV000019733,ENSG00000142192
+rs63750264,21,25891784,25891784,C/A/G/T,1,"Cited,Frequency,Phenotype_or_Disease",C,NA,NA,NA,pathogenic,RCV000518713,ENSG00000142192
+rs63750264,21,25891784,25891784,C/A/G/T,1,"Cited,Frequency,Phenotype_or_Disease",C,NA,NA,NA,pathogenic,VCV000018088,ENSG00000142192
+rs63750264,21,25891784,25891784,C/A/G/T,1,"Cited,Frequency,Phenotype_or_Disease",C,NA,NA,NA,pathogenic,RCV000019714,ENSG00000142192
+rs63750264,21,25891784,25891784,C/A/G/T,1,"Cited,Frequency,Phenotype_or_Disease",C,NA,NA,NA,pathogenic,VCV000018089,ENSG00000142192
+rs63750264,21,25891784,25891784,C/A/G/T,1,"Cited,Frequency,Phenotype_or_Disease",C,NA,NA,NA,pathogenic,RCV000019715,ENSG00000142192
+rs63750264,21,25891784,25891784,C/A/G/T,1,"Cited,Frequency,Phenotype_or_Disease",C,NA,NA,NA,pathogenic,RCV000020308,ENSG00000142192
+rs63750264,21,25891784,25891784,C/A/G/T,1,"Cited,Frequency,Phenotype_or_Disease",C,NA,NA,NA,pathogenic,RCV000084575,ENSG00000142192
+rs63750264,21,25891784,25891784,C/A/G/T,1,"Cited,Frequency,Phenotype_or_Disease",C,NA,NA,NA,pathogenic,RCV000815476,ENSG00000142192
+rs63750264,21,25891784,25891784,C/A/G/T,1,"Cited,Frequency,Phenotype_or_Disease",C,NA,NA,NA,pathogenic,RCV002054452,ENSG00000142192
+rs63750264,21,25891784,25891784,C/A/G/T,1,"Cited,Frequency,Phenotype_or_Disease",C,NA,NA,NA,pathogenic,RCV002496421,ENSG00000142192
+rs63750264,21,25891784,25891784,C/A/G/T,1,"Cited,Frequency,Phenotype_or_Disease",C,NA,NA,NA,pathogenic,VAR_000021,ENSG00000142192
+rs63750264,21,25891784,25891784,C/A/G/T,1,"Cited,Frequency,Phenotype_or_Disease",C,NA,NA,NA,pathogenic,ADM_90,ENSG00000142192
+rs63750264,21,25891784,25891784,C/A/G/T,1,"Cited,Frequency,Phenotype_or_Disease",C,NA,NA,NA,pathogenic,ADM_59,ENSG00000142192
+rs63750264,21,25891784,25891784,C/A/G/T,1,"Cited,Frequency,Phenotype_or_Disease",C,NA,NA,NA,pathogenic,ADM_60,ENSG00000142192
+rs63750264,21,25891784,25891784,C/A/G/T,1,"Cited,Frequency,Phenotype_or_Disease",C,NA,NA,NA,pathogenic,104760.0021,ENSG00000142192
+rs63750264,21,25891784,25891784,C/A/G/T,1,"Cited,Frequency,Phenotype_or_Disease",C,NA,NA,NA,pathogenic,104760.0002,ENSG00000142192
+rs63750264,21,25891784,25891784,C/A/G/T,1,"Cited,Frequency,Phenotype_or_Disease",C,NA,NA,NA,pathogenic,104760.0003,ENSG00000142192
+rs6656401,1,207518704,207518704,A/G/T,1,"1000Genomes,Cited,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",A,NA,NA,NA,,rs9429947,ENSG00000203710
+rs6656401,1,207518704,207518704,A/G/T,1,"1000Genomes,Cited,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",A,NA,NA,NA,,rs56496089,ENSG00000203710
+rs6656401,1,207518704,207518704,A/G/T,1,"1000Genomes,Cited,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",A,NA,NA,NA,,rs57283835,ENSG00000203710
+rs6656401,1,207518704,207518704,A/G/T,1,"1000Genomes,Cited,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",A,NA,NA,NA,,rs57586513,ENSG00000203710
+rs6656401,1,207518704,207518704,A/G/T,1,"1000Genomes,Cited,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",A,NA,NA,NA,,rs111181074,ENSG00000203710
+rs6701713,1,207612944,207612944,A/G/T,1,"1000Genomes,Cited,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,,rs59392655,ENSG00000203710
+rs6701713,1,207612944,207612944,A/G/T,1,"1000Genomes,Cited,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,,rs386604491,ENSG00000203710
+rs9349407,6,47485642,47485642,G/C,1,"1000Genomes,Cited,Frequency,gnomAD,Phenotype_or_Disease,TOPMed",G,NA,NA,NA,,rs57997166,ENSG00000198087
